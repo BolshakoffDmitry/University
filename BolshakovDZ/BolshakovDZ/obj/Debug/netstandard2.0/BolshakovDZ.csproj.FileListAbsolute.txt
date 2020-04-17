@@ -1,0 +1,13 @@
+C:\Users\User\source\BolshakovDZ\BolshakovDZ\bin\Debug\netstandard2.0\BolshakovDZ.deps.json
+C:\Users\User\source\BolshakovDZ\BolshakovDZ\bin\Debug\netstandard2.0\BolshakovDZ.dll
+C:\Users\User\source\BolshakovDZ\BolshakovDZ\bin\Debug\netstandard2.0\ref\BolshakovDZ.dll
+C:\Users\User\source\BolshakovDZ\BolshakovDZ\bin\Debug\netstandard2.0\BolshakovDZ.pdb
+C:\Users\User\source\BolshakovDZ\BolshakovDZ\obj\Debug\netstandard2.0\BolshakovDZ.csprojAssemblyReference.cache
+C:\Users\User\source\BolshakovDZ\BolshakovDZ\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\BolshakovDZ\BolshakovDZ\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\BolshakovDZ\BolshakovDZ\obj\Debug\netstandard2.0\BolshakovDZ.AssemblyInfoInputs.cache
+C:\Users\User\source\BolshakovDZ\BolshakovDZ\obj\Debug\netstandard2.0\BolshakovDZ.AssemblyInfo.cs
+C:\Users\User\source\BolshakovDZ\BolshakovDZ\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\BolshakovDZ\BolshakovDZ\obj\Debug\netstandard2.0\BolshakovDZ.dll
+C:\Users\User\source\BolshakovDZ\BolshakovDZ\obj\Debug\netstandard2.0\ref\BolshakovDZ.dll
+C:\Users\User\source\BolshakovDZ\BolshakovDZ\obj\Debug\netstandard2.0\BolshakovDZ.pdb
